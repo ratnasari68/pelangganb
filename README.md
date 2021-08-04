@@ -1,2 +1,2 @@
-# pelangganb
+# pelanggann
 crud
